@@ -1,0 +1,14 @@
+1. Ưu điểm của Polymorphism:
+- Code linh hoạt hơn, dễ bảo trì và mở rộng
+- Giảm sự phụ thuộc giữa các lớp
+- Cho phép sử dụng cùng một interface cho các đối tượng khác nhau
+
+2. Kế thừa giúp đạt Polymorphism trong Java:
+- Cho phép lớp con ghi đè phương thức của lớp cha
+- Cho phép tham chiếu của lớp cha trỏ đến đối tượng lớp con
+- Giúp triển khai các phương thức abstract hoặc interface
+
+3. Sự khác biệt giữa Polymorphism và Inheritance:
+- Inheritance là quan hệ "is-a" giữa các lớp
+- Polymorphism là khả năng đối tượng có thể có nhiều hình thái
+- Inheritance là cách để đạt được Polymorphism
